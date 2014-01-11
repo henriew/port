@@ -72,11 +72,14 @@
 }
 
 #mainpic {
-	padding-left:600px;
+	width: 360px;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #mainpic img{
 	border: 2px inset #3D3D29;
+
 }
 
 #url a{
